@@ -1,7 +1,6 @@
 name: Update servers.json
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
 
