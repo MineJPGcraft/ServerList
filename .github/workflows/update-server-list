@@ -1,0 +1,38 @@
+name: Update servers.json
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-servers:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Fetch JSON from API
+        run: |
+          curl -sSf -o /tmp/servers-new.json https://server-editor.mcjpg.dev/api/getjson
+
+      - name: Compare and update if changed
+        run: |
+          if [ -f servers.json ]; then
+            if cmp -s servers.json /tmp/servers-new.json; then
+              echo "No changes detected, skipping commit."
+              exit 0
+            fi
+            echo "Changes detected, updating servers.json..."
+          else
+            echo "servers.json does not exist, creating it..."
+          fi
+
+          cp /tmp/servers-new.json servers.json
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add servers.json
+          git commit -m "chore: update servers.json"
+          git push
