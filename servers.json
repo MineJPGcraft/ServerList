@@ -112,6 +112,20 @@
       "id": 5
     },
     {
+      "uuid": "225d0cfb-be87-4323-ae9e-6fcb18da1b6f",
+      "name": "PixelMine",
+      "type": "生存",
+      "version": "1.21.8",
+      "icon": "https://serverlist.mcjpg.org/icons/PixelMine.jpg",
+      "description": "一个基于1.21.8版本的多元化生存服务器，支持离线登录。服务器包含粘液科技、公会系统、领地保护、经济贸易等丰富玩法。无论你是生存玩家、粘液科技爱好者还是建筑爱好者，这里都能找到属于你的乐趣。服务器长期稳定运营，社区友好和谐，期待你的加入",
+      "link": "https://shamizo.top/",
+      "ip": null,
+      "userid": "aedb306a-4224-4466-853f-e5f46b264ef0",
+      "picture": [],
+      "owner_name": "DNPHINTI",
+      "id": 6
+    },
+    {
       "uuid": "8c9f6a63-0a14-4f3f-9cbb-678bd840ac5d",
       "name": "千禧年世界",
       "type": "生存",
@@ -123,20 +137,6 @@
       "userid": "81bf81a0-1cab-4b28-8f15-270b286fc463",
       "picture": null,
       "owner_name": "qxnNetwork",
-      "id": 6
-    },
-    {
-      "uuid": "225d0cfb-be87-4323-ae9e-6fcb18da1b6f",
-      "name": "PixelMine",
-      "type": "生存",
-      "version": "1.21.8",
-      "icon": "https://serverlist.mcjpg.org/icons/PixelMine.jpg",
-      "description": "一个基于1.21.8版本的多元化生存服务器，支持离线登录。服务器包含粘液科技、公会系统、领地保护、经济贸易等丰富玩法。无论你是生存玩家、粘液科技爱好者还是建筑爱好者，这里都能找到属于你的乐趣。服务器长期稳定运营，社区友好和谐，期待你的加入",
-      "link": "https://shamizo.top/",
-      "ip": null,
-      "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
-      "picture": [],
-      "owner_name": "Zhu_Yuxuan",
       "id": 7
     },
     {
