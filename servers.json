@@ -112,31 +112,31 @@
       "id": 5
     },
     {
+      "uuid": "8c9f6a63-0a14-4f3f-9cbb-678bd840ac5d",
+      "name": "千禧年世界-Lite_Alpha",
+      "type": "生存",
+      "version": "1.21.11",
+      "icon": "https://serverlist.mcjpg.org/icons/QXNWorld.png",
+      "description": "欢迎来到千禧年世界Lite服务器!\n你问我v5.5去哪了?问就是电源又炸了1*(不是怎么老被炸啊)\n\n \n\n千禧年世界Lite是一个插件生存服务器，主要玩法为生存\n生存区采用iris维度引擎，且支持2*有限的生电(禁大型机器和赤石机器)\n采用了24核32GB洋垃圾服务器\n服务器核心使用了Luminol多线程核心，最大程度保证游玩流畅\n \n\n服务器IP:lite.qxn.world\n服务器线路:华南 中国电信\n\n千禧年世界版本: Lite-Alpha v1-1.21.11\n\n目前正在开荒，且bug可能比较多(腐竹正在努力修复)\n\n(1*炸了三台服务器的电源了，两台华为一台惠普。)\n(2*未来会更换至更适合生电的Lophine核心，将会完整开放生电玩法。)",
+      "link": "https://status.qxnworld.edu.pl",
+      "ip": "nosrv.qxn.world:56000",
+      "userid": "81bf81a0-1cab-4b28-8f15-270b286fc463",
+      "picture": [],
+      "owner_name": "qxnNetwork",
+      "id": 6
+    },
+    {
       "uuid": "225d0cfb-be87-4323-ae9e-6fcb18da1b6f",
       "name": "PixelMine",
       "type": "生存",
       "version": "1.21.8",
-      "icon": "https://serverlist.mcjpg.org/icons/PixelMine.jpg",
-      "description": "一个基于1.21.8版本的多元化生存服务器，支持离线登录。服务器包含粘液科技、公会系统、领地保护、经济贸易等丰富玩法。无论你是生存玩家、粘液科技爱好者还是建筑爱好者，这里都能找到属于你的乐趣。服务器长期稳定运营，社区友好和谐，期待你的加入",
+      "icon": "https://i.postimg.cc/HsHXNS8L/Image-1783037356982-595.jpg",
+      "description": "安慕希PixelMine服务器！\n社区和谐活跃 欢迎你的加入\n群778353724\nshamizo.top 1.21.8",
       "link": "https://shamizo.top/",
       "ip": null,
       "userid": "aedb306a-4224-4466-853f-e5f46b264ef0",
       "picture": [],
       "owner_name": "DNPHINTI",
-      "id": 6
-    },
-    {
-      "uuid": "8c9f6a63-0a14-4f3f-9cbb-678bd840ac5d",
-      "name": "千禧年世界",
-      "type": "生存",
-      "version": "1.21.8",
-      "icon": "https://serverlist.mcjpg.org/icons/QXNWorld.png",
-      "description": "千禧年世界-始于2023\n一个群组服务器(虽然并不完美)。\n有生存，小游戏等等多种玩法...\n也有奇怪的玩法....(例如主城生存)\n拥有物理服务器，保证永不跑路\n多个线路可保证玩家稳定连接\n快来加入我们!",
-      "link": "https://qxn.world",
-      "ip": null,
-      "userid": "81bf81a0-1cab-4b28-8f15-270b286fc463",
-      "picture": null,
-      "owner_name": "qxnNetwork",
       "id": 7
     },
     {
