@@ -285,6 +285,20 @@
       ],
       "owner_name": "Shimamura-Tako",
       "id": 17
+    },
+    {
+      "uuid": "f7b9acfc-eba4-4502-beb5-585fb21da69b",
+      "name": "福渊大陆纯净生存",
+      "type": "生存",
+      "version": "互通",
+      "icon": "https://image.mcjpg.org/file/1783482469313_Image_1760145047189.jpg",
+      "description": "福渊大陆是以生存生电为核心玩法偏向于原版的公益服务器，致力于让各位玩家结交朋友、轻松游戏。我们没有复杂的功能，也不像其他服务器有圈地或箱子锁等插件，倡导玩家享受当下、轻松交友、互帮互助。",
+      "link": "https://fhymc.framer.media/",
+      "ip": "fhymc.dpdns.org",
+      "userid": "c8bb9fd9-2d86-490e-862e-bb7d6ad172d9",
+      "picture": [],
+      "owner_name": "Fhy",
+      "id": 18
     }
   ]
 }
