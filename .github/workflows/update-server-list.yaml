@@ -17,7 +17,7 @@ jobs:
 
       - name: Fetch JSON from API
         run: |
-          curl -sSf -o /tmp/servers-new.json https://server-editor.mcjpg.dev/api/getjson
+          curl -sSf -o /tmp/servers-new.json https://server-editor-api.mcjpg.dev/api/getjson
 
       - name: Compare and update if changed
         run: |
