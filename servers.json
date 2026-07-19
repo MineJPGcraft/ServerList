@@ -13,6 +13,7 @@
     "中国版",
     "基岩版",
     "互通",
+    "26.1.2",
     "1.21.X",
     "1.21.11",
     "1.21.10",
@@ -254,6 +255,20 @@
       "id": 15
     },
     {
+      "uuid": "8214183a-a63d-4fb8-b225-554594733277",
+      "name": "方块动力工坊（BPW）",
+      "type": "生电",
+      "version": "26.1.2",
+      "icon": "https://image.mcjpg.org/file/1784440194671_服务器logo.png",
+      "description": "Hello，你好呀\n目前服务器处于后期主城建设阶段，主城区域划分已结束\n服务器包含农夫乐事，森罗物语等辅助模组，也有高级附魔台等玩法模组\n服务器无正版验证\n离线以及littleskin等第三方登录都可以，同时也欢迎大家加入我们的QQ群详细了解",
+      "link": "https://qm.qq.com/q/GlXSCXzF04",
+      "ip": "play.simpfun.cn:36583",
+      "userid": "ff583b79-30bb-4c77-992f-5044bd453c6c",
+      "picture": [],
+      "owner_name": "wisdreamal",
+      "id": 16
+    },
+    {
       "uuid": "dc40b816-cf67-40af-9034-09ea2267fb31",
       "name": "花枝鹦鹉",
       "type": "生电",
@@ -265,7 +280,7 @@
       "userid": "0878212e-55d8-4173-8799-01ff133eee30",
       "picture": [],
       "owner_name": "Sam11235",
-      "id": 16
+      "id": 17
     },
     {
       "uuid": "583f2357-8cec-4fe9-8903-cd5028142a90",
@@ -284,7 +299,7 @@
         "https://image.mcjpg.org/file/1781758677763_cm_art_build.png"
       ],
       "owner_name": "Shimamura-Tako",
-      "id": 17
+      "id": 18
     },
     {
       "uuid": "f7b9acfc-eba4-4502-beb5-585fb21da69b",
@@ -298,7 +313,7 @@
       "userid": "c8bb9fd9-2d86-490e-862e-bb7d6ad172d9",
       "picture": [],
       "owner_name": "Fhy",
-      "id": 18
+      "id": 19
     }
   ]
 }
