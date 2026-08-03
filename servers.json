@@ -13,6 +13,7 @@
     "中国版",
     "基岩版",
     "互通",
+    "26.2",
     "26.1.2",
     "1.21.X",
     "1.21.11",
@@ -272,6 +273,22 @@
       "id": 16
     },
     {
+      "uuid": "925f6ec9-90e2-4bca-ba2d-b1ba44674cf0",
+      "name": "MCJPG Games",
+      "type": "小游戏",
+      "version": "26.2",
+      "icon": "https://mcjpg.org/logo.png",
+      "description": "MCJPG托管小游戏服务器\n好吃又好玩，无需正版",
+      "link": "https://qm.qq.com/q/6LQCSaQ1J6",
+      "ip": "play.mcjpg.org",
+      "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
+      "picture": [
+        "https://image.mcjpg.org/file/1785774463911_34152a1395b631e4e93a3ebc56814c41_720.png"
+      ],
+      "owner_name": "Zhu_Yuxuan",
+      "id": 17
+    },
+    {
       "uuid": "dc40b816-cf67-40af-9034-09ea2267fb31",
       "name": "花枝鹦鹉",
       "type": "生电",
@@ -283,7 +300,7 @@
       "userid": "0878212e-55d8-4173-8799-01ff133eee30",
       "picture": [],
       "owner_name": "Sam11235",
-      "id": 17
+      "id": 18
     },
     {
       "uuid": "583f2357-8cec-4fe9-8903-cd5028142a90",
@@ -302,7 +319,7 @@
         "https://image.mcjpg.org/file/1781758677763_cm_art_build.png"
       ],
       "owner_name": "Shimamura-Tako",
-      "id": 18
+      "id": 19
     },
     {
       "uuid": "f7b9acfc-eba4-4502-beb5-585fb21da69b",
@@ -316,7 +333,7 @@
       "userid": "c8bb9fd9-2d86-490e-862e-bb7d6ad172d9",
       "picture": [],
       "owner_name": "Fhy",
-      "id": 19
+      "id": 20
     }
   ]
 }
