@@ -351,6 +351,20 @@
       ],
       "owner_name": "jaing",
       "id": 21
+    },
+    {
+      "uuid": "2001b344-3ca0-4810-b9fa-970de26a009d",
+      "name": "HappyDog 生电&生存",
+      "type": "群组服",
+      "version": "互通",
+      "icon": "https://image.mcjpg.org/file/1786187144977_happydog.png",
+      "description": "Happydog同时具有生电与生存两种类型，同时部署在i5-12600KF与i7-13700KF中。具备公网，流畅不卡顿。",
+      "link": "https://www.happydog.ltd/",
+      "ip": "happydog.ltd",
+      "userid": "bab54eda-fa50-493d-9eb4-a793ae59b952",
+      "picture": [],
+      "owner_name": "WERTYUS11",
+      "id": 22
     }
   ]
 }
