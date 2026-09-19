@@ -186,20 +186,6 @@
       "id": 10
     },
     {
-      "uuid": "4f6ea39b-b129-46fa-bf52-ad8e1bfa6fc1",
-      "name": "Craft233",
-      "type": "生存",
-      "version": "26.1.2",
-      "icon": "https://serverlist.mcjpg.org/icons/Craft233.png",
-      "description": "高版本生存服务器,不限制红石与机器,支持正版/LittleSkin/基岩版登陆，不限制客户端原版可进，欢迎加入。",
-      "link": "https://craft233.top",
-      "ip": "mc.craft233.top",
-      "userid": "77bed518-4f22-41d5-97a5-23739013a6b0",
-      "picture": [],
-      "owner_name": "neokoni",
-      "id": 11
-    },
-    {
       "uuid": "0975b527-2a34-4422-87fb-beed78e80640",
       "name": "星光StarShine",
       "type": "生存",
@@ -211,7 +197,7 @@
       "userid": "f6049bd4-9b98-4261-bf16-dc80830a7965",
       "picture": [],
       "owner_name": "Zhu_Yuxuan",
-      "id": 12
+      "id": 11
     },
     {
       "uuid": "d6b43dee-dc94-4776-8fff-61aa094ed069",
@@ -225,7 +211,7 @@
       "userid": "1a1c819d-a0b4-4859-a32a-a12358ad6936",
       "picture": [],
       "owner_name": "tuboshu",
-      "id": 13
+      "id": 12
     },
     {
       "uuid": "8214183a-a63d-4fb8-b225-554594733277",
@@ -239,7 +225,7 @@
       "userid": "ff583b79-30bb-4c77-992f-5044bd453c6c",
       "picture": [],
       "owner_name": "wisdreamal",
-      "id": 14
+      "id": 13
     },
     {
       "uuid": "b06f4a7c-800b-4515-acc0-15f10295df01",
@@ -256,6 +242,20 @@
         "https://wiki.redstarmc.top/assets/images/11-6069c38e679ac4f4d575d567508acf16.png"
       ],
       "owner_name": "pingguomc",
+      "id": 14
+    },
+    {
+      "uuid": "4f6ea39b-b129-46fa-bf52-ad8e1bfa6fc1",
+      "name": "Craft233",
+      "type": "生存",
+      "version": "26.2",
+      "icon": "https://serverlist.mcjpg.org/icons/Craft233.png",
+      "description": "高版本公益生存服务器，不限制红石与机器。支持正版/LittleSkin/基岩版登录，不限制客户端，原版可进，欢迎加入w。",
+      "link": "https://www.craft233.cn",
+      "ip": "mc.craft233.cn",
+      "userid": "77bed518-4f22-41d5-97a5-23739013a6b0",
+      "picture": [],
+      "owner_name": "neokoni",
       "id": 15
     },
     {
