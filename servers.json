@@ -369,6 +369,17 @@
       ],
       "owner_name": "jaing",
       "id": 22
+    },
+    {
+      "id": 23,
+      "name": "大熊猫服务器",
+      "description": "适合养老的原版生存，带有少量趣味性插件",
+      "type": "生存",
+      "version": "26.2",
+      "ip": "panda.neiki.top",
+      "link": "https://redersha.github.io/panda_server_guide_v2",
+      "icon": "https://i.imgs.ovh/2026/10/05/548155b3647b05592cca303719f9cc88.jpg",
+      "owner_name": "neiki"
     }
   ]
 }
