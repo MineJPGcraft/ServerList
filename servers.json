@@ -275,20 +275,6 @@
       "id": 16
     },
     {
-      "uuid": "dc40b816-cf67-40af-9034-09ea2267fb31",
-      "name": "花枝鹦鹉",
-      "type": "生电",
-      "version": "1.21.1",
-      "icon": "https://image.mcjpg.org/file/1781853903176_IMG_2924.jpeg",
-      "description": "[花枝鹦鹉]是一个1.21.1半生电生存服\n自2024年起运营至今\n\n服内环境和谐友好 \n生电设施配套齐全\n玩家基本都会在Q群或是oopz语音，很热闹\n\nop权限仅服主一人拥有，请放心\n采用MCDR+fabric以获得良好的生电体验\n\n也欢迎建筑和生存又或是其他类型的玩家加入\n服内会不定时举行小活动活跃气氛\n欢迎来参加\n\n加群[397225173]获取ip和白名单\n\noopz语音频道：https://oopz.cn/i/cSmUbn\n\nPS：\n进入服务器代表你遵守以下规则：\n不允使用生电公认辅助外的任何工具\n不能影响其它玩家正常游玩（如：毁坏建筑、机器等）\n如未能遵守，本服将进行警告或封禁等处",
-      "link": "https://qun.qq.com/universal-share/share?ac=1&authKey=q3KHEy26jzkLQIAe0fmoQ0zeInGnpAdsqdnIaFyOvxfIAKPm%2ButhlitcZxwI9ol7&busi_data=eyJncm91cENvZGUiOiIzOTcyMjUxNzMiLCJ0b2tlbiI6IllwZzNDQzRwRDFVQWErNTNERm9XMU1DMUd3QXBSWnpPaWNESDYvTTdSRW5WMW0yb2tocTBQQnV1ZEpqRXVTbWoiLCJ1aW4iOiIyNzA3MjE3NDg4In0%3D&data=iQHKLLvXdBspRpgXiP6-MA4gvgsKpgwWruEGHUgxOyWb2HVmJHZBrH0F6bdhsUSsM43Hbl1Roa7JEaaaq0AT0A&svctype=4&tempid=h5_group_info",
-      "ip": null,
-      "userid": "0878212e-55d8-4173-8799-01ff133eee30",
-      "picture": [],
-      "owner_name": "Sam11235",
-      "id": 17
-    },
-    {
       "uuid": "583f2357-8cec-4fe9-8903-cd5028142a90",
       "name": "Cold Mouse",
       "type": "群组服",
@@ -305,7 +291,7 @@
         "https://image.mcjpg.org/file/1781758677763_cm_art_build.png"
       ],
       "owner_name": "Shimamura-Tako",
-      "id": 18
+      "id": 17
     },
     {
       "uuid": "f7b9acfc-eba4-4502-beb5-585fb21da69b",
@@ -319,7 +305,7 @@
       "userid": "c8bb9fd9-2d86-490e-862e-bb7d6ad172d9",
       "picture": [],
       "owner_name": "Fhy",
-      "id": 19
+      "id": 18
     },
     {
       "uuid": "8c9f6a63-0a14-4f3f-9cbb-678bd840ac5d",
@@ -333,7 +319,7 @@
       "userid": "81bf81a0-1cab-4b28-8f15-270b286fc463",
       "picture": [],
       "owner_name": "qxnNetwork",
-      "id": 20
+      "id": 19
     },
     {
       "uuid": "52480d02-8bad-43f8-81b4-4a2b04b75de6",
@@ -351,7 +337,7 @@
         "https://cdn.starfallplain.cn/images/original/landscape/20260816_234150_8363.jpg"
       ],
       "owner_name": "ran",
-      "id": 21
+      "id": 20
     },
     {
       "uuid": "d98f84a7-6077-4a17-89a9-6d7a036d6d74",
@@ -368,7 +354,7 @@
         "https://img.remit.ee/api/file/CAACAgUAAyEGAASHRsPbAAEYwuxqdcUmw3Ffx8QuU9fM68hDtNhDbAACMSYAAvmbsFfnaLhtTZCGDj0E.webp"
       ],
       "owner_name": "jaing",
-      "id": 22
+      "id": 21
     }
   ]
 }
